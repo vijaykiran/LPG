@@ -1,4 +1,4 @@
-(ns luna-pool.controllers.gamers
+(ns lpg.controllers.gamers
   (:use [compojure.core :only [defroutes GET POST PUT DELETE]]))
 
 (defn index

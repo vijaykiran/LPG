@@ -1,9 +1,9 @@
-(ns luna-pool.core
+(ns lpg.core
   (:use [compojure.core :only (defroutes)])
   (:require [compojure.route :as route]
             [compojure.handler :as handler]
             [ring.adapter.jetty :as ring]
-            [luna-pool.controllers.gamers :as gamers]))
+            [lpg.controllers.gamers :as gamers]))
 
 ;;; define the routes
 (defroutes routes

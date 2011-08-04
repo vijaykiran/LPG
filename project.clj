@@ -1,5 +1,5 @@
-(defproject luna-pool "0.0.1-SNAPSHOT"
-  :description "Lunatech Pool Leaderboard"
+(defproject lpg "0.0.1-SNAPSHOT"
+  :description "Lunatech Pool Gamerboard"
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [org.clojure/clojure-contrib "1.2.0"]
                  [com.ashafa/clutch "0.2.4"]
