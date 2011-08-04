@@ -1,13 +1,12 @@
-# luna-pool
+# LPG
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
+Clojure/CouchDB/SenchaTouch App
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Vijay Kiran
 
-Distributed under the Eclipse Public License, the same as Clojure.
+http://www.apache.org/licenses/LICENSE-2.0.html
+
+
+
